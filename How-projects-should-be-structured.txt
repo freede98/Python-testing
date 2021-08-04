@@ -1,0 +1,19 @@
+project/
+│
+├── my_app/
+│   └── __init__.py
+│
+└── tests/
+    |
+    └── unit-tests/
+    |   ├── __init__.py
+    |   └── test_unit.py
+    |
+    └── integration-tests/
+        |
+        ├── fixtures/
+        |   ├── test_basic.json
+        |   └── test_complex.json
+        |
+        ├── __init__.py
+        └── test_integration.py
